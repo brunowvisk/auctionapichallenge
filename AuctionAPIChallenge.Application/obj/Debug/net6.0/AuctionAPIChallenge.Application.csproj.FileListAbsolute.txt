@@ -1,0 +1,17 @@
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\AuctionAPIChallenge.Application.deps.json
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\AuctionAPIChallenge.Application.dll
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\AuctionAPIChallenge.Application.pdb
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\AuctionAPIChallenge.Domain.dll
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\AuctionAPIChallenge.Domain.pdb
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.csproj.CopyComplete
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.dll
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\refint\AuctionAPIChallenge.Application.dll
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\AuctionAPIChallenge.Application.pdb
+C:\Users\bruno\OneDrive\Documentos\Projects\csharp\AuctionAPIChallenge\AuctionAPIChallenge.Application\obj\Debug\net6.0\ref\AuctionAPIChallenge.Application.dll
